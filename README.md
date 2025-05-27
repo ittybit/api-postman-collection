@@ -1,3 +1,6 @@
+<img width="288" alt="01JR93RGPJKJKD1BEJRFR8YTEX (3)" src="https://github.com/user-attachments/assets/0c05943f-014c-4a49-bb97-0892a4888717" />
+
+
 # Postman Collection
 
 The ```collection.json``` will always be updated whenever we deploy a feature, bug fix, version of the Ittybit API. You can use this collection to import into Postman (or other software that accepts postman collections.
