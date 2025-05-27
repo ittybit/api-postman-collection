@@ -5,7 +5,7 @@
 The ```collection.json``` will always be updated whenever we deploy a feature, bug fix, version of the Ittybit API. You can use this collection to import into Postman (or other software that accepts postman collections.
 
 ### A. Import Using Url
-You can import using the following url ```https://raw.githubusercontent.com/ittybit/api-postman-collection/refs/heads/main/collection.json```
+You can import using the following url ```https://raw.githubusercontent.com/ittybit/postman/refs/heads/main/collection.json```
 
 ![image](https://github.com/user-attachments/assets/f6dff985-bb5b-484a-ade3-493a39cea1bc)
 
