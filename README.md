@@ -1,5 +1,8 @@
-![Ittybit Logo](https://github.com/user-attachments/assets/f0d9d823-16b6-4985-a8e4-7a1906dd0a56#gh-dark-mode-only)
-![Ittybit Logo](https://github.com/user-attachments/assets/05908188-7eb0-4d78-a23b-072c0c07bb79#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/05908188-7eb0-4d78-a23b-072c0c07bb79">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f0d9d823-16b6-4985-a8e4-7a1906dd0a56">
+  <img alt="Ittybit Logo" src="https://github.com/user-attachments/assets/05908188-7eb0-4d78-a23b-072c0c07bb79" width="200px">
+</picture>
 
 
 # Postman Collection
